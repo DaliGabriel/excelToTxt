@@ -1,4 +1,2 @@
 # excelToTxt
-Php Script to change upload excel to txt file to upload to bbva
-
-Bbva require a strict order in txt files to upload files and make employes pay
+Convierte el excel subido a un formato txt con los requierimientos necesarios para subirlo en el portal de bbva nomina y de esta manera realizar los pagos a los empleados de una manera mas rapida, ya que el formato de texto que solicita bbva es muy estricto
